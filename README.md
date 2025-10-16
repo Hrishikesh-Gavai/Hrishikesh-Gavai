@@ -134,7 +134,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-143a1845-fb5c-4a5b-81c9-d7d5e2c3e9e7.gif" width="600"/>
 
-## <img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" width="35"/> Current Status <img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" width="35"/>
+## <img src="https://github.com/user-attachments/assets/d2499a98-e330-4609-9ff5-604291464cfc" width="35"/> Current Status <img src="https://github.com/user-attachments/assets/d2499a98-e330-4609-9ff5-604291464cfc" width="35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E2%9A%A1+console.log('Building+cool+stuff');%F0%9F%94%A5+printf('Debugging+life');%F0%9F%9A%80+System.out.println('Pushing+commits');%F0%9F%92%BB+import+success+from+'hardwork'" alt="Status"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
