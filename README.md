@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://cdn-icons-png.flaticon.com/128/2945/2945620.png" width="45"/> Wake the f*ck up, Samurai! <img src="https://cdn-icons-png.flaticon.com/128/2945/2945644.png" width="45"/>
+# <img src="https://cdn-icons-png.flaticon.com/128/5278/5278636.png" width="45"/> Wake the f*ck up, Samurai! <img src="https://cdn-icons-png.flaticon.com/128/616/616554.png" width="45"/>
 
 # <img src="https://cdn-icons-png.flaticon.com/128/1998/1998087.png" width="38"/> We've got a city to burn <img src="https://cdn-icons-png.flaticon.com/128/1998/1998087.png" width="38"/>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## <img src="https://cdn-icons-png.flaticon.com/128/2920/2920277.png" width="35"/> Tech Arsenal <img src="https://cdn-icons-png.flaticon.com/128/2920/2920277.png" width="35"/>
+## <img src="https://cdn-icons-png.flaticon.com/128/4727/4727266.png" width="35"/> Tech Arsenal <img src="https://cdn-icons-png.flaticon.com/128/4727/4727266.png" width="35"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
@@ -26,7 +26,7 @@
 <tr>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png" width="28"/> Programming Languages
+### <img src="https://cdn-icons-png.flaticon.com/128/1005/1005141.png" width="28"/> Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -38,7 +38,7 @@
 </td>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/1163/1163565.png" width="28"/> Web Development
+### <img src="https://cdn-icons-png.flaticon.com/128/1005/1005141.png" width="28"/> Web Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -53,7 +53,7 @@
 <tr>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/2772/2772165.png" width="28"/> Databases
+### <img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" width="28"/> Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -64,7 +64,7 @@
 </td>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/2103/2103633.png" width="28"/> Cloud & DevOps
+### <img src="https://cdn-icons-png.flaticon.com/128/984/984315.png" width="28"/> Cloud & DevOps
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
@@ -77,7 +77,7 @@
 <tr>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/4062/4062293.png" width="28"/> AI/ML & Data Science
+### <img src="https://cdn-icons-png.flaticon.com/128/8618/8618881.png" width="28"/> AI/ML & Data Science
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -88,7 +88,7 @@
 </td>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/2991/2991148.png" width="28"/> Game Development
+### <img src="https://cdn-icons-png.flaticon.com/128/686/686589.png" width="28"/> Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
@@ -103,7 +103,7 @@
 
 <div align="center">
 
-## <img src="https://cdn-icons-png.flaticon.com/128/3094/3094840.png" width="35"/> GitHub Analytics <img src="https://cdn-icons-png.flaticon.com/128/3094/3094840.png" width="35"/>
+## <img src="https://cdn-icons-png.flaticon.com/128/2621/2621040.png" width="35"/> GitHub Analytics <img src="https://cdn-icons-png.flaticon.com/128/2621/2621040.png" width="35"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700"/>
 
@@ -122,7 +122,7 @@
 
 <div align="center">
 
-## <img src="https://cdn-icons-png.flaticon.com/128/2920/2920349.png" width="35"/> Contribution Activity <img src="https://cdn-icons-png.flaticon.com/128/2920/2920349.png" width="35"/>
+## <img src="https://cdn-icons-png.flaticon.com/128/3588/3588592.png" width="35"/> Contribution Activity <img src="https://cdn-icons-png.flaticon.com/128/3588/3588592.png" width="35"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Gavai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFF7&line=00FFF7&point=FF1744&area=true&area_color=00FFF7" width="98%" alt="Contribution Graph"/>
 
@@ -132,35 +132,18 @@
 
 <div align="center">
 
-## <img src="https://cdn-icons-png.flaticon.com/128/2666/2666505.png" width="35"/> GitHub Trophies <img src="https://cdn-icons-png.flaticon.com/128/2666/2666505.png" width="35"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hrishikesh-Gavai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="98%" alt="Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/229223156-143a1845-fb5c-4a5b-81c9-d7d5e2c3e9e7.gif" width="600"/>
 
-## <img src="https://cdn-icons-png.flaticon.com/128/3094/3094837.png" width="35"/> Current Status <img src="https://cdn-icons-png.flaticon.com/128/3094/3094837.png" width="35"/>
+## <img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" width="35"/> Current Status <img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" width="35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E2%9A%A1+console.log('Building+cool+stuff');%F0%9F%94%A5+printf('Debugging+life');%F0%9F%9A%80+System.out.println('Pushing+commits');%F0%9F%92%BB+import+success+from+'hardwork'" alt="Status"/>
 
 <br/>
 
-### <img src="https://cdn-icons-png.flaticon.com/128/2965/2965306.png" width="28"/> Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFF7?style=for-the-badge&logo=google-chrome&logoColor=black)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
-### <img src="https://cdn-icons-png.flaticon.com/128/6295/6295417.png" width="24"/> *"The only way to do great work is to love what you do."*
+### <img src="https://cdn-icons-png.flaticon.com/128/3094/3094837.png" width="24"/> *"The only way to do great work is to love what you do."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+</div>
