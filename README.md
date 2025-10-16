@@ -2,7 +2,7 @@
 
 # <img src="https://github.com/user-attachments/assets/7948a4ac-cba5-4a61-b791-b86393e11692" width="45"/> Wake the f*ck up, Samurai! <img src="https://github.com/user-attachments/assets/bc0ae5c2-038e-4a9a-a52b-a91fb246ec5b" width="45"/>
 
-# <img src="https://cdn-icons-png.flaticon.com/128/1998/1998087.png" width="38"/> We've got a city to burn <img src="https://cdn-icons-png.flaticon.com/128/1998/1998087.png" width="38"/>
+# <img src="https://github.com/user-attachments/assets/a3795865-c2f1-415e-8b95-fb4dbe8441ff" width="38"/> We've got a city to burn <img src="https://github.com/user-attachments/assets/138a5249-8714-44f0-b4f7-10f3d86745a2" width="38"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+the+future...one+commit+at+a+time;%3C%2F%3E+Code+%E2%80%A2+Create+%E2%80%A2+Conquer+%3C%2F%3E" alt="Typing SVG" />
 
