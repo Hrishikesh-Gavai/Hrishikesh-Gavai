@@ -26,7 +26,7 @@
 <tr>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/1005/1005141.png" width="28"/> Programming Languages
+### <img src="https://github.com/user-attachments/assets/4966d478-b3d3-43ff-9bec-f2229f718e98" width="28"/> Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -38,7 +38,7 @@
 </td>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/1005/1005141.png" width="28"/> Web Development
+### <img src="https://github.com/user-attachments/assets/62f2fe68-4ae1-49f7-b488-12587cfbad36" width="28"/> Web Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -88,7 +88,7 @@
 </td>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/686/686589.png" width="28"/> Game Development
+### <img src="https://github.com/user-attachments/assets/67ef804d-588e-41cc-a04f-3d21897e9c69" width="28"/> Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
