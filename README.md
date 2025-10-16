@@ -1,14 +1,14 @@
 <div align="center">
 
-# <img src="https://cdn-icons-png.flaticon.com/128/5278/5278636.png" width="40"/> Wake the f*ck up, Samurai! <img src="https://cdn-icons-png.flaticon.com/128/785/785116.png" width="40"/>
+# <img src="https://cdn-icons-png.flaticon.com/128/2945/2945620.png" width="45"/> Wake the f*ck up, Samurai! <img src="https://cdn-icons-png.flaticon.com/128/2945/2945644.png" width="45"/>
 
-# <img src="https://cdn-icons-png.flaticon.com/128/3065/3065122.png" width="35"/> We've got a city to burn <img src="https://cdn-icons-png.flaticon.com/128/3065/3065122.png" width="35"/>
+# <img src="https://cdn-icons-png.flaticon.com/128/1998/1998087.png" width="38"/> We've got a city to burn <img src="https://cdn-icons-png.flaticon.com/128/1998/1998087.png" width="38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+the+future...one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+the+future...one+commit+at+a+time;%3C%2F%3E+Code+%E2%80%A2+Create+%E2%80%A2+Conquer+%3C%2F%3E" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Hrishikesh-Gavai&color=00ff41&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Hrishikesh-Gavai)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hrishikesh-Gavai&color=00fff7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Hrishikesh-Gavai)
 
 </div>
 
@@ -16,7 +16,9 @@
 
 <div align="center">
 
-## <img src="https://cdn-icons-png.flaticon.com/128/2917/2917995.png" width="30"/> Tech Arsenal <img src="https://cdn-icons-png.flaticon.com/128/2917/2917995.png" width="30"/>
+## <img src="https://cdn-icons-png.flaticon.com/128/2920/2920277.png" width="35"/> Tech Arsenal <img src="https://cdn-icons-png.flaticon.com/128/2920/2920277.png" width="35"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
 
@@ -24,58 +26,74 @@
 <tr>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width="24"/> Languages
+### <img src="https://cdn-icons-png.flaticon.com/128/1822/1822899.png" width="28"/> Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </td>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/1005/1005141.png" width="24"/> Web Development
+### <img src="https://cdn-icons-png.flaticon.com/128/1163/1163565.png" width="28"/> Web Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" width="24"/> Databases
+### <img src="https://cdn-icons-png.flaticon.com/128/2772/2772165.png" width="28"/> Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </td>
 <td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/4215/4215831.png" width="24"/> Cloud & AI/ML
+### <img src="https://cdn-icons-png.flaticon.com/128/2103/2103633.png" width="28"/> Cloud & DevOps
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td align="center" width="50%">
 
-### <img src="https://cdn-icons-png.flaticon.com/128/3242/3242257.png" width="24"/> Game Development
+### <img src="https://cdn-icons-png.flaticon.com/128/4062/4062293.png" width="28"/> AI/ML & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### <img src="https://cdn-icons-png.flaticon.com/128/2991/2991148.png" width="28"/> Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </td>
 </tr>
@@ -85,22 +103,18 @@
 
 <div align="center">
 
-## <img src="https://cdn-icons-png.flaticon.com/128/2621/2621040.png" width="30"/> GitHub Stats <img src="https://cdn-icons-png.flaticon.com/128/2621/2621040.png" width="30"/>
+## <img src="https://cdn-icons-png.flaticon.com/128/3094/3094840.png" width="35"/> GitHub Analytics <img src="https://cdn-icons-png.flaticon.com/128/3094/3094840.png" width="35"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hrishikesh-Gavai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh-Gavai&theme=black-ice&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41&sideLabels=00FF41" alt="GitHub Streak"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700"/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh-Gavai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<br/>
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hrishikesh-Gavai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF7&icon_color=00FFF7&text_color=C9D1D9&ring_color=00FFF7" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh-Gavai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFF7&ring=00FFF7&fire=FF1744&currStreakLabel=00FFF7&sideLabels=00FFF7&dates=C9D1D9" alt="GitHub Streak"/>
 
----
+<br/>
 
-<div align="center">
-
-## <img src="https://cdn-icons-png.flaticon.com/128/3588/3588592.png" width="30"/> Contribution Activity <img src="https://cdn-icons-png.flaticon.com/128/3588/3588592.png" width="30"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Gavai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true" width="95%" alt="Contribution Graph"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh-Gavai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
 
 </div>
 
@@ -108,11 +122,9 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-143a1845-fb5c-4a5b-81c9-d7d5e2c3e9e7.gif" width="500"/>
+## <img src="https://cdn-icons-png.flaticon.com/128/2920/2920349.png" width="35"/> Contribution Activity <img src="https://cdn-icons-png.flaticon.com/128/2920/2920349.png" width="35"/>
 
-## <img src="https://cdn-icons-png.flaticon.com/128/4727/4727266.png" width="30"/> Current Status <img src="https://cdn-icons-png.flaticon.com/128/4727/4727266.png" width="30"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=500&height=75&lines=console.log('Building+cool+stuff');printf('Debugging+life');System.out.println('Pushing+commits');" alt="Status"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Gavai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFF7&line=00FFF7&point=FF1744&area=true&area_color=00FFF7" width="98%" alt="Contribution Graph"/>
 
 </div>
 
@@ -120,9 +132,9 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+## <img src="https://cdn-icons-png.flaticon.com/128/2666/2666505.png" width="35"/> GitHub Trophies <img src="https://cdn-icons-png.flaticon.com/128/2666/2666505.png" width="35"/>
 
-### <img src="https://cdn-icons-png.flaticon.com/128/5278/5278658.png" width="25"/> *"It's not a bug, it's an undocumented feature"*
+<img src="https://github-profile-trophy.vercel.app/?username=Hrishikesh-Gavai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="98%" alt="Trophies"/>
 
 </div>
 
@@ -130,6 +142,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-143a1845-fb5c-4a5b-81c9-d7d5e2c3e9e7.gif" width="600"/>
 
-</div>
+## <img src="https://cdn-icons-png.flaticon.com/128/3094/3094837.png" width="35"/> Current Status <img src="https://cdn-icons-png.flaticon.com/128/3094/3094837.png" width="35"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E2%9A%A1+console.log('Building+cool+stuff');%F0%9F%94%A5+printf('Debugging+life');%F0%9F%9A%80+System.out.println('Pushing+commits');%F0%9F%92%BB+import+success+from+'hardwork'" alt="Status"/>
+
+<br/>
+
+### <img src="https://cdn-icons-png.flaticon.com/128/2965/2965306.png" width="28"/> Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFF7?style=for-the-badge&logo=google-chrome&logoColor=black)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+
+### <img src="https://cdn-icons-png.flaticon.com/128/6295/6295417.png" width="24"/> *"The only way to do great work is to love what you do."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
