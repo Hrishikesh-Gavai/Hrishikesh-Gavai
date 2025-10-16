@@ -43,23 +43,47 @@ I'm a third-year **BTech Computer Engineering** student at **KKWIEER, Nashik** w
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **🌐 Web Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **🗄️ Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### **☁️ Cloud & Tools**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+### **⚡ Quick Stats**
+![Hrishikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrishikeshgavai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+### **💻 Most Used Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshgavai&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+### **🔥 Streak Stats**
+![GitHub Streak](https://streak-stats.demolab.com/?user=hrishikeshgavai&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
@@ -102,13 +126,15 @@ I'm a third-year **BTech Computer Engineering** student at **KKWIEER, Nashik** w
 
 </div>
 
-| 🥈 | **2nd Rank** - College Level PBL Project Competition |
-|---|-----------------------------------------------------|
-| 📜 | **IPR & Patent** for ongoing project (In Process) |
-| 🏅 | **Google Cloud Arcade - Legend Tier** (100+ Skill Badges) |
-| 📊 | **Top 1%** in NPTEL Design Thinking Course (94%) |
-| 🎯 | **RDBMS PostgreSQL Training** (92.50%) |
-| ⭐ | **Programming in C/C++** (98% - Grade A) |
+| Award | Achievement |
+|-------|-------------|
+| 🥈 **2nd Rank** | College Level PBL Project Competition |
+| 📜 **IPR & Patent** | Ongoing project (In Process) |
+| 🏅 **Google Cloud Legend** | 100+ Skill Badges - Legend Tier |
+| 📊 **Top 1%** | NPTEL Design Thinking Course (94%) |
+| 🎯 **PostgreSQL Expert** | RDBMS Training (92.50%) |
+| ⭐ **C/C++ Excellence** | Programming (98% - Grade A) |
+| ☕ **Java Certification** | NPTEL Programming in Java |
 
 ---
 
@@ -133,20 +159,6 @@ I'm a third-year **BTech Computer Engineering** student at **KKWIEER, Nashik** w
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hrishikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrishikeshgavai&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrishikeshgavai&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hrishikeshgavai&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -159,15 +171,12 @@ I'm always excited to collaborate on innovative projects and discuss new ideas!
 
 <div align="center">
 
-📧 **Email:** [hrishikeshgavai@gmail.com](mailto:hrishikeshgavai@gmail.com) | [hagavai370123@kkwagh.edu.in](mailto:hagavai370123@kkwagh.edu.in)
+[![Email](https://img.shields.io/badge/Email-hrishikeshgavai@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrishikeshgavai@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hrishikesh_Gavai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-gavai)
+[![GitHub](https://img.shields.io/badge/GitHub-hrishikeshgavai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hrishikeshgavai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
-📱 **Phone:** +91 9503133432
-
-🌐 **LinkedIn:** [Hrishikesh Gavai](https://www.linkedin.com/in/hrishikesh-gavai)
-
-💼 **GitHub:** [hrishikeshgavai](https://github.com/hrishikeshgavai)
-
-📍 **Location:** Nashik, Maharashtra, India
+**📍 Nashik, Maharashtra, India**
 
 </div>
 
@@ -180,6 +189,8 @@ I'm always excited to collaborate on innovative projects and discuss new ideas!
 
 ![Footer](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-**Thanks for visiting my profile!** ✨
+**"Code is poetry, design is art, and innovation is my language."**
+
+⭐ *Feel free to star my repositories if you find them interesting!*
 
 </div>
