@@ -1,12 +1,12 @@
 <div align="center">
 
-# Wake the f*ck up, Samurai! 🔥
+# Wake the f*ck up, Samurai!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=We've+got+a+city+to+burn;Full+Stack+Developer;AI+%26+ML+Engineer;Building+the+future...one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=We've+got+a+city+to+burn;Full+Stack+Developer+%7C+AI+Engineer;Building+the+future...one+commit+at+a+time" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Cyberpunk Coding" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Hrishikesh-Gavai&color=00FF9D&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Hrishikesh-Gavai)
+[![Profile Views](https://komarev.com/ghpvc/?username=Hrishikesh-Gavai&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Hrishikesh-Gavai)
 
 </div>
 
@@ -14,60 +14,104 @@
 
 <div align="center">
 
-## ⚡ Tech Arsenal
+## <img src="https://cdn-icons-png.flaticon.com/128/2917/2917995.png" width="35"/> Tech Arsenal
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
 
 </div>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-### 🚀 Core Technologies
+### <img src="https://cdn-icons-png.flaticon.com/128/1005/1005141.png" width="25"/> Languages
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</div>
+</td>
+<td align="center" width="50%">
 
-### 🌐 Web Development
+### <img src="https://cdn-icons-png.flaticon.com/128/2721/2721297.png" width="25"/> Web Development
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+</td>
+</tr>
 
-### 🗄️ Databases & Cloud
+<tr>
+<td align="center" width="50%">
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+### <img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" width="25"/> Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</td>
+<td align="center" width="50%">
+
+### <img src="https://cdn-icons-png.flaticon.com/128/2103/2103633.png" width="25"/> Cloud & AI/ML
+
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</div>
-
-### 🤖 AI/ML & Tools
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+### <img src="https://cdn-icons-png.flaticon.com/128/3242/3242257.png" width="25"/> Game Development
+
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## <img src="https://cdn-icons-png.flaticon.com/128/2621/2621040.png" width="35"/> GitHub Stats
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"/>
 
 </div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hrishikesh-Gavai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh-Gavai&theme=black-ice&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B00&currStreakLabel=00FF41&sideLabels=00FF41" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh-Gavai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+
+### <img src="https://cdn-icons-png.flaticon.com/128/3588/3588592.png" width="30"/> Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Gavai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -75,21 +119,11 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## <img src="https://cdn-icons-png.flaticon.com/128/4727/4727424.png" width="35"/> Current Status
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Stats"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hrishikesh-Gavai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh-Gavai&theme=black-ice&hide_border=true&background=0D1117&stroke=00FF9D&ring=00FF9D&fire=FF6B00&currStreakLabel=00FF9D" alt="GitHub Streak" />
-
-<br/>
-<br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh-Gavai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF" alt="Top Languages" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=console.log('Building+cool+stuff');printf('Debugging+life');System.out.println('Pushing+commits');" alt="Status"/>
 
 </div>
 
@@ -97,21 +131,9 @@
 
 <div align="center">
 
-### 📈 Contribution Graph
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Gavai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF" width="95%" alt="Activity Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Hacker"/>
-
-## 🚀 Current Status
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Console.log(%22Building+cool+stuff%22);printf(%22Debugging+life%22);System.out.println(%22Pushing+commits%22);" alt="Status" />
+### <img src="https://cdn-icons-png.flaticon.com/128/5278/5278658.png" width="30"/> *"It's not a bug, it's an undocumented feature"*
 
 </div>
 
@@ -119,9 +141,9 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Hacker Meme"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400"/>
 
-### *"It's not a bug, it's a feature"* 😎
+### <img src="https://cdn-icons-png.flaticon.com/128/1087/1087815.png" width="30"/> *"Code is like humor. When you have to explain it, it's bad."*
 
 </div>
 
@@ -129,6 +151,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+
+**<img src="https://cdn-icons-png.flaticon.com/128/3588/3588592.png" width="25"/> Let's build something legendary!**
 
 </div>
