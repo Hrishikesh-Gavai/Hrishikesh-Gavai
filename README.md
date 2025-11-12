@@ -103,37 +103,6 @@
 
 <div align="center">
 
-## <img src="https://cdn-icons-png.flaticon.com/128/2621/2621040.png" width="35"/> GitHub Analytics <img src="https://cdn-icons-png.flaticon.com/128/2621/2621040.png" width="35"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hrishikesh-Gavai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF7&icon_color=00FFF7&text_color=C9D1D9&ring_color=00FFF7" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh-Gavai&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFF7&ring=00FFF7&fire=FF1744&currStreakLabel=00FFF7&sideLabels=00FFF7&dates=C9D1D9" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh-Gavai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF7&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://cdn-icons-png.flaticon.com/128/3588/3588592.png" width="35"/> Contribution Activity <img src="https://cdn-icons-png.flaticon.com/128/3588/3588592.png" width="35"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Gavai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFF7&line=00FFF7&point=FF1744&area=true&area_color=00FFF7" width="98%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223156-143a1845-fb5c-4a5b-81c9-d7d5e2c3e9e7.gif" width="600"/>
-
 ## <img src="https://github.com/user-attachments/assets/d2499a98-e330-4609-9ff5-604291464cfc" width="35"/> Current Status <img src="https://github.com/user-attachments/assets/d2499a98-e330-4609-9ff5-604291464cfc" width="35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E2%9A%A1+console.log('Building+cool+stuff');%F0%9F%94%A5+printf('Debugging+life');%F0%9F%9A%80+System.out.println('Pushing+commits');%F0%9F%92%BB+import+success+from+'hardwork'" alt="Status"/>
