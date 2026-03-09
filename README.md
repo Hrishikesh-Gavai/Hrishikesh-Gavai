@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://github.com/user-attachments/assets/7948a4ac-cba5-4a61-b791-b86393e11692" width="45"/> Wake the f*ck up, Samurai! <img src="https://github.com/user-attachments/assets/bc0ae5c2-038e-4a9a-a52b-a91fb246ec5b" width="45"/>
+# <img src="https://github.com/user-attachments/assets/7948a4ac-cba5-4a61-b791-b86393e11692" width="45"/> Wake up, Samurai! <img src="https://github.com/user-attachments/assets/bc0ae5c2-038e-4a9a-a52b-a91fb246ec5b" width="45"/>
 
 # <img src="https://github.com/user-attachments/assets/a3795865-c2f1-415e-8b95-fb4dbe8441ff" width="38"/> We've got a city to burn <img src="https://github.com/user-attachments/assets/138a5249-8714-44f0-b4f7-10f3d86745a2" width="38"/>
 
