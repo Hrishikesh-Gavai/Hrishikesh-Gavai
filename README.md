@@ -1,147 +1,111 @@
-<!-- ░░ HRISHIKESH GAVAI ░░ wheatpaste edition ░░ assets/ lives next to this file ░░ -->
-
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Hrishikesh Gavai — wake up, samurai. we've got a city to burn."/>
+# <img src="https://github.com/user-attachments/assets/7948a4ac-cba5-4a61-b791-b86393e11692" width="45"/> Wake up, Samurai! <img src="https://github.com/user-attachments/assets/bc0ae5c2-038e-4a9a-a52b-a91fb246ec5b" width="45"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=26&duration=2600&pause=900&color=FF2E88&center=true&vCenter=true&width=760&lines=Full+stack+developer+%2F+AI+engineer;Building+the+future%2C+one+commit+at+a+time;Code.+Create.+Conquer." alt="Full stack developer / AI engineer"/>
+# <img src="https://github.com/user-attachments/assets/a3795865-c2f1-415e-8b95-fb4dbe8441ff" width="38"/> We've got a city to burn <img src="https://github.com/user-attachments/assets/138a5249-8714-44f0-b4f7-10f3d86745a2" width="38"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+the+future...one+commit+at+a+time;%3C%2F%3E+Code+%E2%80%A2+Create+%E2%80%A2+Conquer+%3C%2F%3E" alt="Typing SVG" />
 
-<a href="https://unsplash.com/photos/GXZ-W2__ebM"><img src="https://images.unsplash.com/photo-1641604901764-9e1dca1ceceb?auto=format&fit=crop&q=80&w=600&h=800" width="31%" alt="black and white house covered in graffiti"/></a>
-<a href="https://unsplash.com/photos/v5OiDiqIj-M"><img src="https://images.unsplash.com/photo-1565476599063-a9b93037c7f0?auto=format&fit=crop&q=80&w=600&h=800" width="31%" alt="black and multicolored graffiti"/></a>
-<a href="https://unsplash.com/photos/00WhXHKB_yM"><img src="https://images.unsplash.com/photo-1660597889976-21f777c72b6f?auto=format&fit=crop&q=80&w=600&h=800" width="31%" alt="black and white painted face on a wall"/></a>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550"/>
 
-<br/><br/>
-
-<a href="https://github.com/Hrishikesh-Gavai"><img src="https://komarev.com/ghpvc/?username=Hrishikesh-Gavai&color=FF2E88&style=flat-square&label=PASSERSBY" alt="profile views"/></a>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"/>
-  <img src="assets/divider-light.svg" width="80%" alt=""/>
-</picture>
-
-<br/><br/>
-
-<img src="assets/label-whoami.svg" height="80" alt="Who's behind the can"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Hrishikesh-Gavai&color=00fff7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Hrishikesh-Gavai)
 
 </div>
 
-```js
-const hrishikesh = {
-  role:      ["Full Stack Developer", "AI Engineer"],
-  studying:  "Computer Engineering @ KKWIEER, Nashik",
-  canvas:    ["the web", "3D", "game engines", "neural nets"],
-  currently: "building the future... one commit at a time",
-  motto:     "code • create • conquer",
-};
-```
+---
 
 <div align="center">
 
-<a href="https://unsplash.com/photos/uymG7UVPXpI"><img src="https://images.unsplash.com/photo-1611063158871-7dd3ed4a2ac8?auto=format&fit=crop&q=80&w=1600&h=420" width="100%" alt="dark wall covered in stickers and yellow spray paint"/></a>
+## <img src="https://github.com/user-attachments/assets/cb8b753a-ad75-4990-91a4-bbc3ce8b03b5" width="35"/> Tech Arsenal <img src="https://github.com/user-attachments/assets/cb8b753a-ad75-4990-91a4-bbc3ce8b03b5" width="35"/>
 
-<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"/>
-  <img src="assets/divider-light.svg" width="80%" alt=""/>
-</picture>
+</div>
 
-<br/><br/>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<img src="assets/label-arsenal.svg" height="80" alt="The arsenal"/>
+### <img src="https://github.com/user-attachments/assets/4966d478-b3d3-43ff-9bec-f2229f718e98" width="28"/> Programming Languages
 
-<br/><br/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img src="assets/sticker-languages.svg" height="46" alt="Languages"/><br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,py,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript, TypeScript"/>
+</td>
+<td align="center" width="50%">
 
-<br/><br/>
+### <img src="https://github.com/user-attachments/assets/62f2fe68-4ae1-49f7-b488-12587cfbad36" width="28"/> Web Development
 
-<img src="assets/sticker-web.svg" height="46" alt="Web"/><br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,express,threejs,html,css,tailwind&theme=dark" alt="React, Node.js, Express, Three.js, HTML, CSS, Tailwind"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-<img src="assets/sticker-databases.svg" height="46" alt="Databases"/><br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongodb,firebase,redis&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Firebase, Redis"/>
+### <img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" width="28"/> Databases
 
-<br/><br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<img src="assets/sticker-cloud.svg" height="46" alt="Cloud and DevOps"/><br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,aws,docker,git,github&theme=dark" alt="Google Cloud, AWS, Docker, Git, GitHub"/>
+</td>
+<td align="center" width="50%">
 
-<br/><br/>
+### <img src="https://cdn-icons-png.flaticon.com/128/984/984315.png" width="28"/> Cloud & DevOps
 
-<img src="assets/sticker-ai.svg" height="46" alt="AI, ML and data"/><br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" alt="TensorFlow, PyTorch, scikit-learn, Pandas, NumPy"/>
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-<img src="assets/sticker-gamedev.svg" height="46" alt="Game dev"/><br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=unity,unreal,godot,blender&theme=dark" alt="Unity, Unreal Engine, Godot, Blender"/>
+### <img src="https://cdn-icons-png.flaticon.com/128/8618/8618881.png" width="28"/> AI/ML & Data Science
 
-<br/><br/>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<a href="https://unsplash.com/photos/ISMmYTfr2ts"><img src="https://images.unsplash.com/photo-1494026222377-872a605b54ba?auto=format&fit=crop&q=80&w=1600&h=420&sat=-100&con=20" width="100%" alt="wall layered with graffiti, in black and white"/></a>
+</td>
+<td align="center" width="50%">
 
-<br/><br/>
+### <img src="https://github.com/user-attachments/assets/67ef804d-588e-41cc-a04f-3d21897e9c69" width="28"/> Game Development
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"/>
-  <img src="assets/divider-light.svg" width="80%" alt=""/>
-</picture>
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-<br/><br/>
+</td>
+</tr>
+</table>
 
-<img src="assets/label-stats.svg" height="80" alt="Wall stats"/>
+---
 
-<br/><br/>
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Hrishikesh-Gavai&hide_border=true&border_radius=0&background=000000&stroke=333333&ring=FF2E88&fire=FF2E88&currStreakLabel=FF2E88&currStreakNum=F4F4F4&sideNums=F4F4F4&sideLabels=F4F4F4&dates=8A8A8A" width="70%" alt="contribution streak"/>
+## <img src="https://github.com/user-attachments/assets/d2499a98-e330-4609-9ff5-604291464cfc" width="35"/> Current Status <img src="https://github.com/user-attachments/assets/d2499a98-e330-4609-9ff5-604291464cfc" width="35"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishikesh-Gavai&bg_color=000000&color=F4F4F4&title_color=F4F4F4&line=FF2E88&point=F4F4F4&area=true&area_color=FF2E88&hide_border=true&radius=0&custom_title=Paint%20laid%20down%20lately" width="100%" alt="contribution activity graph"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"/>
-  <img src="assets/divider-light.svg" width="80%" alt=""/>
-</picture>
-
-<br/><br/>
-
-<img src="assets/label-now.svg" height="80" alt="On the wall right now"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=3000&pause=1000&color=8A8A8A&center=true&vCenter=true&multiline=true&width=620&height=110&lines=%E2%9A%A1+console.log('Building+cool+stuff');%F0%9F%94%A5+printf('Debugging+life');%F0%9F%9A%80+System.out.println('Pushing+commits');%F0%9F%92%BB+import+success+from+'hardwork'" alt="Current status"/>
-
-<br/><br/>
-
-<a href="https://unsplash.com/photos/K0cW669UQH0"><img src="https://images.unsplash.com/photo-1611562242695-cc5940964622?auto=format&fit=crop&q=80&w=500&h=500&sat=-100&con=20" width="23%" alt="graffiti, black and white"/></a>
-<a href="https://unsplash.com/photos/6Fb8hLjRqVw"><img src="https://images.unsplash.com/photo-1534162169564-158041fc3992?auto=format&fit=crop&q=80&w=500&h=500" width="23%" alt="white and orange graffiti wall"/></a>
-<a href="https://unsplash.com/photos/cLjPDgBSsFM"><img src="https://images.unsplash.com/photo-1508162326105-bb8eac9e4630?auto=format&fit=crop&q=80&w=500&h=500&sat=-100&con=20" width="23%" alt="graffiti on brick, black and white"/></a>
-<a href="https://unsplash.com/photos/XyDUj57VzFM"><img src="https://images.unsplash.com/photo-1543097840-fc84594dd9e6?auto=format&fit=crop&q=80&w=500&h=500" width="23%" alt="close up of a graffiti wall"/></a>
-
-<br/><br/>
-
-<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by the wall. Now go make some noise."/>
-
-<sub>
-photos via <a href="https://unsplash.com">Unsplash</a> —
-<a href="https://unsplash.com/@jaredmurray">Jared Murray</a>,
-<a href="https://unsplash.com/@jdent">Jason Dent</a>,
-<a href="https://unsplash.com/@ormoney">Kate Kopteva</a>,
-<a href="https://unsplash.com/@maxvdo">Max van den Oetelaar</a>,
-<a href="https://unsplash.com/@svi_designs">Sergi Viladesau</a>,
-<a href="https://unsplash.com/@diofagundes">Diogo Fagundes</a>,
-<a href="https://unsplash.com/@anniespratt">Annie Spratt</a>,
-<a href="https://unsplash.com/@thoutbox">Yonghyun Lee</a>,
-<a href="https://unsplash.com/@pawel_czerwinski">Pawel Czerwinski</a>
-</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E2%9A%A1+console.log('Building+cool+stuff');%F0%9F%94%A5+printf('Debugging+life');%F0%9F%9A%80+System.out.println('Pushing+commits');%F0%9F%92%BB+import+success+from+'hardwork'" alt="Status"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
