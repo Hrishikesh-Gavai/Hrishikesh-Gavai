@@ -1,111 +1,73 @@
 <div align="center">
 
-# <img src="https://github.com/user-attachments/assets/7948a4ac-cba5-4a61-b791-b86393e11692" width="45"/> Wake up, Samurai! <img src="https://github.com/user-attachments/assets/bc0ae5c2-038e-4a9a-a52b-a91fb246ec5b" width="45"/>
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 
-# <img src="https://github.com/user-attachments/assets/a3795865-c2f1-415e-8b95-fb4dbe8441ff" width="38"/> We've got a city to burn <img src="https://github.com/user-attachments/assets/138a5249-8714-44f0-b4f7-10f3d86745a2" width="38"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=300&section=header&text=WAKE%20UP%2C%20SAMURAI&fontSize=64&fontColor=000000&stroke=FFFFFF&strokeWidth=2&fontAlignY=40&desc=WE'VE%20GOT%20A%20CITY%20TO%20BURN&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Wake up, Samurai. We've got a city to burn."/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+the+future...one+commit+at+a+time;%3C%2F%3E+Code+%E2%80%A2+Create+%E2%80%A2+Conquer+%3C%2F%3E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=22&duration=2800&pause=1400&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=56&lines=FULL+STACK+DEVELOPER;AI+ENGINEER" width="100%" alt="Full stack developer / AI engineer"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="550"/>
+<!-- ═══════════════════════════  HERO — WIDE  ═══════════════════════════ -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Hrishikesh-Gavai&color=00fff7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Hrishikesh-Gavai)
+<img src="https://images.unsplash.com/photo-1533710359718-c822c4e88549?w=1800&h=720&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="100%" alt="abandoned warehouse covered in graffiti, black and white"/>
 
-</div>
+<!-- ═══════════════  TRIPTYCH — PORTRAIT | WIDE | PORTRAIT  ═══════════════ -->
 
----
+<img src="https://images.unsplash.com/photo-1615116437909-2451dff907b5?w=600&h=900&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="24%" alt="high rise at night, black and white"/>
+<img src="https://images.unsplash.com/photo-1606151335022-a7fa775a2bcc?w=1200&h=900&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="48%" alt="mural on a Paris wall, black and white"/>
+<img src="https://images.unsplash.com/photo-1660597889976-21f777c72b6f?w=600&h=900&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="24%" alt="painted face on a wall, black and white"/>
 
-<div align="center">
+<br/><br/>
 
-## <img src="https://github.com/user-attachments/assets/cb8b753a-ad75-4990-91a4-bbc3ce8b03b5" width="35"/> Tech Arsenal <img src="https://github.com/user-attachments/assets/cb8b753a-ad75-4990-91a4-bbc3ce8b03b5" width="35"/>
+<!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=18&duration=1600&pause=99999&repeat=false&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=44&lines=%E2%97%A2+ARSENAL+%E2%97%A3" width="100%" alt="Arsenal"/>
 
-</div>
+<br/>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### <img src="https://github.com/user-attachments/assets/4966d478-b3d3-43ff-9bec-f2229f718e98" width="28"/> Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### <img src="https://github.com/user-attachments/assets/62f2fe68-4ae1-49f7-b488-12587cfbad36" width="28"/> Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### <img src="https://cdn-icons-png.flaticon.com/128/2906/2906274.png" width="28"/> Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### <img src="https://cdn-icons-png.flaticon.com/128/984/984315.png" width="28"/> Cloud & DevOps
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### <img src="https://cdn-icons-png.flaticon.com/128/8618/8618881.png" width="28"/> AI/ML & Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### <img src="https://github.com/user-attachments/assets/67ef804d-588e-41cc-a04f-3d21897e9c69" width="28"/> Game Development
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="right" width="190"><sub><b>LANGUAGES</b></sub></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,py,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript, TypeScript"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>WEB</b></sub></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,express,threejs,html,css,tailwind&theme=dark" alt="React, Node.js, Express, Three.js, HTML, CSS, Tailwind"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DATABASES</b></sub></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongodb,firebase,redis&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Firebase, Redis"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>CLOUD &amp; DEVOPS</b></sub></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,aws,docker,git,github&theme=dark" alt="Google Cloud, AWS, Docker, Git, GitHub"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>AI / ML &amp; DATA</b></sub></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" alt="TensorFlow, PyTorch, scikit-learn, Pandas, NumPy"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>GAME DEV</b></sub></td>
+    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=unity,unreal,godot,blender&theme=dark" alt="Unity, Unreal Engine, Godot, Blender"/></td>
+  </tr>
 </table>
 
----
+<br/>
 
-<div align="center">
+<!-- ═══════════════════════════  FILMSTRIP — SQUARES  ═══════════════════════════ -->
 
-## <img src="https://github.com/user-attachments/assets/d2499a98-e330-4609-9ff5-604291464cfc" width="35"/> Current Status <img src="https://github.com/user-attachments/assets/d2499a98-e330-4609-9ff5-604291464cfc" width="35"/>
+<img src="https://images.unsplash.com/photo-1612147552704-52e1858c7c47?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="19%" alt="graffiti piece, fisheye, black and white"/>
+<img src="https://images.unsplash.com/photo-1590343712709-5dc8204db834?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="19%" alt="graffiti wall and railing, black and white"/>
+<img src="https://images.unsplash.com/photo-1515902542059-54a400cc66fe?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="19%" alt="tunnel of light, black and white"/>
+<img src="https://images.unsplash.com/photo-1742608417140-81847622684c?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="19%" alt="skyscrapers, black and white"/>
+<img src="https://images.unsplash.com/photo-1652267571513-68cc7df7487d?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="19%" alt="silhouette in the city, black and white"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E2%9A%A1+console.log('Building+cool+stuff');%F0%9F%94%A5+printf('Debugging+life');%F0%9F%9A%80+System.out.println('Pushing+commits');%F0%9F%92%BB+import+success+from+'hardwork'" alt="Status"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<!-- ═══════════════════════════  DIPTYCH — PORTRAIT | WIDE  ═══════════════════════════ -->
+
+<img src="https://images.unsplash.com/photo-1641604901764-9e1dca1ceceb?w=750&h=1000&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="30%" alt="house covered in graffiti, black and white"/>
+<img src="https://images.unsplash.com/photo-1606659013294-28f50f8c377e?w=1650&h=1000&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="66%" alt="graffiti on concrete at night, black and white"/>
+
+<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=140&section=footer" width="100%" alt=""/>
 
 </div>
