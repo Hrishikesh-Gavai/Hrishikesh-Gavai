@@ -1,73 +1,65 @@
 <div align="center">
 
-<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  OPENING · FILM LEADER  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=300&section=header&text=WAKE%20UP%2C%20SAMURAI&fontSize=64&fontColor=000000&stroke=FFFFFF&strokeWidth=2&fontAlignY=40&desc=WE'VE%20GOT%20A%20CITY%20TO%20BURN&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Wake up, Samurai. We've got a city to burn."/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=1400&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=26&repeat=false&lines=%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++B%26W+400++%E2%96%B8+00++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++B%26W+400++%E2%96%B8+00++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0" width="100%" alt=""/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=400&size=120&duration=450&pause=550&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=170&repeat=false&lines=3;2;1;ACTION" width="100%" alt="3, 2, 1, action"/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=400&size=64&duration=1800&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=130&repeat=false&lines=WAKE+UP%2C+SAMURAI." width="100%" alt="Wake up, Samurai."/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&weight=400&size=38&duration=1800&pause=1200&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=90&repeat=false&lines=we%27ve+got+a+city+to+burn" width="100%" alt="We've got a city to burn"/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=26&duration=1600&pause=1600&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=64&letterSpacing=6px&lines=FULL+STACK+DEVELOPER;AI+ENGINEER" width="100%" alt="Full stack developer / AI engineer"/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=1400&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=26&repeat=false&lines=%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++%E2%96%B8+01++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++%E2%96%B8+01++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0" width="100%" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=22&duration=2800&pause=1400&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=56&lines=FULL+STACK+DEVELOPER;AI+ENGINEER" width="100%" alt="Full stack developer / AI engineer"/>
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  REEL I · STREET  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<!-- ═══════════════════════════  HERO — WIDE  ═══════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=400&size=20&duration=1400&pause=1200&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=50&repeat=false&letterSpacing=4px&lines=%E2%97%A2++REEL+I++%C2%B7++STREET++%E2%97%A3" width="100%" alt="Reel I, street"/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=1400&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=26&repeat=false&lines=%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++%E2%96%B8+02++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++%E2%96%B8+02++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0" width="100%" alt=""/><br/>
+<img src="https://images.unsplash.com/photo-1606151335022-a7fa775a2bcc?w=400&h=600&fit=crop&crop=entropy&q=85&sat=-100&con=15&border=10,000000&auto=format" width="20%" alt="mural on a Paris wall"/><img src="https://images.unsplash.com/photo-1660597889976-21f777c72b6f?w=400&h=600&fit=crop&crop=entropy&q=85&sat=-100&con=15&border=10,000000&auto=format" width="20%" alt="painted face on a wall"/><img src="https://images.unsplash.com/photo-1612147552704-52e1858c7c47?w=400&h=600&fit=crop&crop=entropy&q=85&sat=-100&con=15&border=10,000000&auto=format" width="20%" alt="graffiti piece through a fisheye lens"/><img src="https://images.unsplash.com/photo-1590343712709-5dc8204db834?w=400&h=600&fit=crop&crop=entropy&q=85&sat=-100&con=15&border=10,000000&auto=format" width="20%" alt="graffiti wall and railing"/><img src="https://images.unsplash.com/photo-1641604901764-9e1dca1ceceb?w=400&h=600&fit=crop&crop=entropy&q=85&sat=-100&con=15&border=10,000000&auto=format" width="20%" alt="house covered in graffiti"/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=1400&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=26&repeat=false&lines=%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++%E2%96%B8+03++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++%E2%96%B8+03++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0" width="100%" alt=""/>
 
-<img src="https://images.unsplash.com/photo-1533710359718-c822c4e88549?w=1800&h=720&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="100%" alt="abandoned warehouse covered in graffiti, black and white"/>
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  MIDDLE · STARRING  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<!-- ═══════════════  TRIPTYCH — PORTRAIT | WIDE | PORTRAIT  ═══════════════ -->
-
-<img src="https://images.unsplash.com/photo-1615116437909-2451dff907b5?w=600&h=900&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="24%" alt="high rise at night, black and white"/>
-<img src="https://images.unsplash.com/photo-1606151335022-a7fa775a2bcc?w=1200&h=900&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="48%" alt="mural on a Paris wall, black and white"/>
-<img src="https://images.unsplash.com/photo-1660597889976-21f777c72b6f?w=600&h=900&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="24%" alt="painted face on a wall, black and white"/>
-
-<br/><br/>
-
-<!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=600&size=18&duration=1600&pause=99999&repeat=false&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=44&lines=%E2%97%A2+ARSENAL+%E2%97%A3" width="100%" alt="Arsenal"/>
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Limelight&weight=400&size=54&duration=1500&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=110&repeat=false&letterSpacing=10px&lines=STARRING" width="100%" alt="Starring"/>
 
 <table>
   <tr>
-    <td align="right" width="190"><sub><b>LANGUAGES</b></sub></td>
-    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,java,py,js,ts&theme=dark" alt="C, C++, Java, Python, JavaScript, TypeScript"/></td>
+    <td align="right"><img src="https://img.shields.io/badge/LANGUAGES-FFFFFF?style=for-the-badge" alt="LANGUAGES"/></td>
+    <td align="left"><img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
   </tr>
   <tr>
-    <td align="right"><sub><b>WEB</b></sub></td>
-    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,express,threejs,html,css,tailwind&theme=dark" alt="React, Node.js, Express, Three.js, HTML, CSS, Tailwind"/></td>
+    <td align="right"><img src="https://img.shields.io/badge/WEB-000000?style=for-the-badge" alt="WEB"/></td>
+    <td align="left"><img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black" alt="Express"/> <img src="https://img.shields.io/badge/Three.js-FFFFFF?style=for-the-badge&logo=threedotjs&logoColor=black" alt="Three.js"/> <img src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS-FFFFFF?style=for-the-badge&logo=css&logoColor=black" alt="CSS"/> <img src="https://img.shields.io/badge/Tailwind-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="Tailwind"/></td>
   </tr>
   <tr>
-    <td align="right"><sub><b>DATABASES</b></sub></td>
-    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongodb,firebase,redis&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Firebase, Redis"/></td>
+    <td align="right"><img src="https://img.shields.io/badge/DATABASES-FFFFFF?style=for-the-badge" alt="DATABASES"/></td>
+    <td align="left"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/> <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></td>
   </tr>
   <tr>
-    <td align="right"><sub><b>CLOUD &amp; DEVOPS</b></sub></td>
-    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=gcp,aws,docker,git,github&theme=dark" alt="Google Cloud, AWS, Docker, Git, GitHub"/></td>
+    <td align="right"><img src="https://img.shields.io/badge/CLOUD%20%26%20DEVOPS-000000?style=for-the-badge" alt="CLOUD & DEVOPS"/></td>
+    <td align="left"><img src="https://img.shields.io/badge/Google%20Cloud-FFFFFF?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Google Cloud"/> <img src="https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazonwebservices&logoColor=black" alt="AWS"/> <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=black" alt="Docker"/> <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=black" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></td>
   </tr>
   <tr>
-    <td align="right"><sub><b>AI / ML &amp; DATA</b></sub></td>
-    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" alt="TensorFlow, PyTorch, scikit-learn, Pandas, NumPy"/></td>
+    <td align="right"><img src="https://img.shields.io/badge/AI%20%2F%20ML%20%26%20DATA-FFFFFF?style=for-the-badge" alt="AI / ML & DATA"/></td>
+    <td align="left"><img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></td>
   </tr>
   <tr>
-    <td align="right"><sub><b>GAME DEV</b></sub></td>
-    <td align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=unity,unreal,godot,blender&theme=dark" alt="Unity, Unreal Engine, Godot, Blender"/></td>
+    <td align="right"><img src="https://img.shields.io/badge/GAME%20DEV-000000?style=for-the-badge" alt="GAME DEV"/></td>
+    <td align="left"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/> <img src="https://img.shields.io/badge/Unreal%20Engine-FFFFFF?style=for-the-badge&logo=unrealengine&logoColor=black" alt="Unreal Engine"/> <img src="https://img.shields.io/badge/Godot-FFFFFF?style=for-the-badge&logo=godotengine&logoColor=black" alt="Godot"/> <img src="https://img.shields.io/badge/Blender-FFFFFF?style=for-the-badge&logo=blender&logoColor=black" alt="Blender"/></td>
   </tr>
 </table>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Monoton&weight=400&size=72&duration=700&pause=900&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=140&lines=WEB;3D;AI;GAMES" width="100%" alt="Web, 3D, AI, games"/>
 
-<!-- ═══════════════════════════  FILMSTRIP — SQUARES  ═══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  REEL II · NIGHT CITY  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img src="https://images.unsplash.com/photo-1612147552704-52e1858c7c47?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="19%" alt="graffiti piece, fisheye, black and white"/>
-<img src="https://images.unsplash.com/photo-1590343712709-5dc8204db834?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="19%" alt="graffiti wall and railing, black and white"/>
-<img src="https://images.unsplash.com/photo-1515902542059-54a400cc66fe?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="19%" alt="tunnel of light, black and white"/>
-<img src="https://images.unsplash.com/photo-1742608417140-81847622684c?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="19%" alt="skyscrapers, black and white"/>
-<img src="https://images.unsplash.com/photo-1652267571513-68cc7df7487d?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="19%" alt="silhouette in the city, black and white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=400&size=20&duration=1400&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=50&repeat=false&letterSpacing=4px&lines=%E2%97%A2++REEL+II++%C2%B7++NIGHT+CITY++%E2%97%A3" width="100%" alt="Reel II, night city"/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=1400&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=26&repeat=false&lines=%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++%E2%96%B8+04++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++%E2%96%B8+04++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0" width="100%" alt=""/><br/>
+<img src="https://images.unsplash.com/photo-1615116437909-2451dff907b5?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=15&border=10,000000&auto=format" width="16.66%" alt="high rise at night"/><img src="https://images.unsplash.com/photo-1515902542059-54a400cc66fe?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=15&border=10,000000&auto=format" width="16.66%" alt="tunnel of light"/><img src="https://images.unsplash.com/photo-1606659013294-28f50f8c377e?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=15&border=10,000000&auto=format" width="16.66%" alt="graffiti on concrete at night"/><img src="https://images.unsplash.com/photo-1742608417140-81847622684c?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=15&border=10,000000&auto=format" width="16.66%" alt="skyscrapers"/><img src="https://images.unsplash.com/photo-1652267571513-68cc7df7487d?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=15&border=10,000000&auto=format" width="16.66%" alt="silhouette in the city"/><img src="https://images.unsplash.com/photo-1533710359718-c822c4e88549?w=500&h=500&fit=crop&crop=entropy&q=85&sat=-100&con=15&border=10,000000&auto=format" width="16.66%" alt="warehouse covered in graffiti"/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=1400&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=26&repeat=false&lines=%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++%E2%96%B8+05++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++%E2%96%B8+05++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0" width="100%" alt=""/>
 
-<!-- ═══════════════════════════  DIPTYCH — PORTRAIT | WIDE  ═══════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░  ENDING · END CARD  ░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img src="https://images.unsplash.com/photo-1641604901764-9e1dca1ceceb?w=750&h=1000&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="30%" alt="house covered in graffiti, black and white"/>
-<img src="https://images.unsplash.com/photo-1606659013294-28f50f8c377e?w=1650&h=1000&fit=crop&crop=entropy&q=85&sat=-100&con=12&auto=format" width="66%" alt="graffiti on concrete at night, black and white"/>
-
-<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=140&section=footer" width="100%" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Limelight&weight=400&size=76&duration=1600&pause=1200&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=160&repeat=false&letterSpacing=12px&lines=THE+END" width="100%" alt="The end"/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&weight=400&size=22&duration=1800&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=56&repeat=false&letterSpacing=3px&lines=stay+awake%2C+samurai." width="100%" alt="Stay awake, samurai."/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=14&duration=1400&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&height=26&repeat=false&lines=%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++%E2%96%B8+FIN++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0++%E2%96%B8+FIN++%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0+%E2%96%A0" width="100%" alt=""/>
 
 </div>
